@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+<title id="title">Símbolo Taísa Trancista</title><desc id="desc">Monograma T em tons de laranja e açafrão, com um detalhe inspirado em tranças.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFD22F"/><stop offset="1" stop-color="#F45B16"/></linearGradient></defs>
+<circle cx="60" cy="60" r="55" fill="#FFF6E4" stroke="url(#g)" stroke-width="3"/>
+<circle cx="60" cy="60" r="47" fill="none" stroke="#B83E0B" stroke-opacity=".45" stroke-width="1"/>
+<path d="M35 37 Q60 27 85 37 M39 45 H81" fill="none" stroke="#B83E0B" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M60 42 V82" stroke="#F45B16" stroke-width="5" stroke-linecap="round"/>
+<path d="M43 49 H77" stroke="#F45B16" stroke-width="5" stroke-linecap="round"/>
+<path d="M53 60 C68 53 50 72 66 66 S52 82 66 78" fill="none" stroke="#B83E0B" stroke-width="2.5" stroke-linecap="round"/>
+<circle cx="60" cy="91" r="3" fill="#FFD22F"/>
+</svg>
