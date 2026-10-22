@@ -1,11 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300" role="img" aria-labelledby="t d">
-<title id="t">Taísa Trancista — marca-d’água</title><desc id="d">Logotipo transparente em terracota e açafrão para aplicar sobre fotos claras.</desc>
-<g fill="none" stroke="#B83E0B" stroke-width="3" opacity=".95">
-<circle cx="142" cy="130" r="82"/><circle cx="142" cy="130" r="72" stroke="#F45B16" stroke-width="1.5"/>
-<path d="M101 96 Q142 79 183 96 M113 108 H171" stroke-linecap="round"/>
+<title id="t">Taísa Trancista — marca-d’água</title><desc id="d">Símbolo ilustrado de mulher com tranças e nome Taísa Trancista, com fundo transparente.</desc>
+<g transform="translate(12 4) scale(.45)">
+<circle cx="310" cy="205" r="148" fill="none" stroke="#F4A32C" stroke-width="5"/><path d="M198 96 L176 52 L226 77 L246 24 L269 75 L309 42 L305 91" fill="none" stroke="#FFD22F" stroke-width="8" stroke-linejoin="round"/>
+<path d="M216 128 Q260 66 331 93 Q395 110 410 174 L395 236 Q381 273 353 304 L269 308 Q221 258 216 128Z" fill="#21120C" stroke="#F4A32C" stroke-width="3"/>
+<g fill="none" stroke="#F4A32C" stroke-width="10" stroke-linecap="round"><path d="M230 126 Q210 184 234 280"/><path d="M250 110 Q231 187 252 302"/><path d="M271 98 Q253 181 272 312"/><path d="M293 94 Q278 180 292 310"/><path d="M315 96 Q301 180 313 306"/><path d="M337 104 Q326 177 334 294"/><path d="M358 120 Q350 180 354 273"/></g>
+<path d="M326 122 Q363 104 388 136 Q402 157 391 178 L420 198 Q432 207 416 220 L398 226 Q391 252 364 264 L335 255 Q320 230 324 204Z" fill="#A84E20" stroke="#F4A32C" stroke-width="2"/><path d="M350 159 Q367 149 383 159 M352 176 Q370 190 389 177" fill="none" stroke="#21120C" stroke-width="5"/><ellipse cx="354" cy="218" rx="19" ry="28" fill="none" stroke="#FFD22F" stroke-width="5"/>
 </g>
-<g fill="none" stroke="#F45B16" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M142 99 V167 M113 113 H171"/><path d="M135 125 C158 115 130 143 153 135 S132 160 153 151" stroke="#B83E0B" stroke-width="3"/></g>
-<text x="260" y="139" fill="#8F2D0B" font-family="Georgia,serif" font-size="92" font-style="italic" letter-spacing="-3">Taísa</text>
-<text x="267" y="195" fill="#B83E0B" font-family="Arial,sans-serif" font-size="32" letter-spacing="12">TRANCISTA</text>
-<path d="M267 220 H650" stroke="#F45B16" stroke-width="2"/><text x="267" y="250" fill="#8F2D0B" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">BELEZA • ESTILO • IDENTIDADE</text>
+<text x="260" y="139" fill="#B83E0B" font-family="Georgia,serif" font-size="92" font-style="italic" letter-spacing="-3">Taísa</text><text x="267" y="195" fill="#8F2D0B" font-family="Georgia,serif" font-size="32" letter-spacing="12">TRANCISTA</text><path d="M267 220 H650" stroke="#F45B16" stroke-width="2"/><text x="267" y="250" fill="#8F2D0B" font-family="Arial,sans-serif" font-size="17" letter-spacing="4">BELEZA • ESTILO • IDENTIDADE</text>
 </svg>

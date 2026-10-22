@@ -1,11 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
-<title id="title">Símbolo Taísa Trancista</title><desc id="desc">Monograma T em tons de laranja e açafrão, com um detalhe inspirado em tranças.</desc>
-<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFD22F"/><stop offset="1" stop-color="#F45B16"/></linearGradient></defs>
-<circle cx="60" cy="60" r="55" fill="#FFF6E4" stroke="url(#g)" stroke-width="3"/>
-<circle cx="60" cy="60" r="47" fill="none" stroke="#B83E0B" stroke-opacity=".45" stroke-width="1"/>
-<path d="M35 37 Q60 27 85 37 M39 45 H81" fill="none" stroke="#B83E0B" stroke-width="2.5" stroke-linecap="round"/>
-<path d="M60 42 V82" stroke="#F45B16" stroke-width="5" stroke-linecap="round"/>
-<path d="M43 49 H77" stroke="#F45B16" stroke-width="5" stroke-linecap="round"/>
-<path d="M53 60 C68 53 50 72 66 66 S52 82 66 78" fill="none" stroke="#B83E0B" stroke-width="2.5" stroke-linecap="round"/>
-<circle cx="60" cy="91" r="3" fill="#FFD22F"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 620" role="img" aria-labelledby="title desc">
+<title id="title">Taísa Trancista</title><desc id="desc">Logomarca ilustrada em tons de cobre e açafrão com perfil de mulher negra e tranças.</desc>
+<defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFD22F"/><stop offset="1" stop-color="#F45B16"/></linearGradient><linearGradient id="skin" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C96A2A"/><stop offset="1" stop-color="#6E2B0D"/></linearGradient></defs>
+<circle cx="310" cy="205" r="148" fill="none" stroke="url(#gold)" stroke-width="5"/>
+<path d="M198 96 L176 52 L226 77 L246 24 L269 75 L309 42 L305 91" fill="none" stroke="url(#gold)" stroke-width="8" stroke-linejoin="round"/>
+<path d="M216 128 Q260 66 331 93 Q395 110 410 174 L395 236 Q381 273 353 304 L269 308 Q221 258 216 128Z" fill="#21120C" stroke="#F4A32C" stroke-width="3"/>
+<g fill="none" stroke="url(#gold)" stroke-width="10" stroke-linecap="round">
+<path d="M230 126 Q210 184 234 280"/><path d="M250 110 Q231 187 252 302"/><path d="M271 98 Q253 181 272 312"/><path d="M293 94 Q278 180 292 310"/><path d="M315 96 Q301 180 313 306"/><path d="M337 104 Q326 177 334 294"/><path d="M358 120 Q350 180 354 273"/>
+</g>
+<g fill="none" stroke="#FFE0A0" stroke-width="2.5" opacity=".9"><path d="M230 143 Q218 208 236 265"/><path d="M271 115 Q259 195 275 290"/><path d="M315 110 Q306 196 316 285"/></g>
+<path d="M326 122 Q363 104 388 136 Q402 157 391 178 L420 198 Q432 207 416 220 L398 226 Q391 252 364 264 L335 255 Q320 230 324 204Z" fill="url(#skin)" stroke="#F4A32C" stroke-width="2"/>
+<path d="M350 159 Q367 149 383 159" fill="none" stroke="#2B1309" stroke-width="7" stroke-linecap="round"/><path d="M352 176 Q370 190 389 177" fill="none" stroke="#2B1309" stroke-width="4" stroke-linecap="round"/>
+<path d="M397 197 Q412 201 419 197" fill="none" stroke="#2B1309" stroke-width="4" stroke-linecap="round"/><path d="M392 231 Q378 244 360 234" fill="none" stroke="#4C1B0B" stroke-width="4" stroke-linecap="round"/>
+<ellipse cx="354" cy="218" rx="19" ry="28" fill="none" stroke="#FFD22F" stroke-width="5"/>
+<path d="M284 295 Q317 274 353 287 Q384 299 399 333 L415 354 L210 354 Q236 320 284 295Z" fill="url(#skin)" stroke="#F4A32C" stroke-width="2"/>
+<text x="310" y="421" text-anchor="middle" font-family="Georgia,serif" font-size="105" font-style="italic" fill="url(#gold)">Taísa</text>
+<path d="M87 447 H182 M438 447 H533" stroke="url(#gold)" stroke-width="3"/>
+<text x="310" y="466" text-anchor="middle" font-family="Georgia,serif" font-size="38" letter-spacing="8" fill="#B83E0B">TRANCISTA</text>
+<text x="310" y="507" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" letter-spacing="4" fill="#8F2D0B">BELEZA • ESTILO • AUTOESTIMA</text>
+<path d="M205 540 Q260 513 301 540 Q310 548 319 540 Q360 513 415 540" fill="none" stroke="#F45B16" stroke-width="3"/><path d="M310 535 C286 512 275 540 310 557 C345 540 334 512 310 535Z" fill="#F45B16"/>
 </svg>
